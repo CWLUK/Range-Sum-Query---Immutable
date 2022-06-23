@@ -1,2 +1,1 @@
-# Range-Sum-Query---Immutable
-Array Design Prefix Sum
+https://leetcode.com/problems/range-sum-query-immutable
